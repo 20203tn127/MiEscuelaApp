@@ -9,3 +9,4 @@ Este proyecto fue creado por:
 Kemish Mahonri Jiménez Pascual
 Angel Omar Diaz Salgado
 María Andrea Copca Hernández Magro
+Francisco Javier García Espinoza
