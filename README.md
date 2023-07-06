@@ -6,3 +6,4 @@ para mostrar una lista de elementos en el navegador.
 ## Autor
 
 Este proyecto fue creado por:
+Kemish Mahonri Jiménez Pascual
