@@ -8,3 +8,4 @@ para mostrar una lista de elementos en el navegador.
 Este proyecto fue creado por:
 Kemish Mahonri Jiménez Pascual
 Angel Omar Diaz Salgado
+María Andrea Copca Hernández Magro
